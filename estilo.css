@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(245, 222, 180);
+}
+
+h1{
+    text-align: center;
+    color: orangered;
+}
+
+p{
+    padding: 5px;
+    margin-left: 10px;
+    font-weight: bold;
+}
